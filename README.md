@@ -1,5 +1,5 @@
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e0c0b-8816-746b-a712-2ea0bae00c9f/screenshot.png)
+![Website Preview](https://cdn.pixabay.com/photo/2017/07/27/20/50/rubics-2546717_1280.jpg)
 
 The link is https://rubimath40.github.io/my-website/
