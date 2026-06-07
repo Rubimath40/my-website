@@ -1,0 +1,16 @@
+body {
+    background-color: purple;
+    font-family: monospace, serif;
+}
+
+p.style1 {
+    color: #ff0000
+}
+
+li {
+    font-family: monospace, sans-serif;
+}
+
+img {
+    background-color: purple;
+}
